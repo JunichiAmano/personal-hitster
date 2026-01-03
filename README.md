@@ -11,4 +11,4 @@ To play with hitstar:
 9. Go to settings and change Online Path to the copied link and erase the folder name at the end of the link.\
    It should look like this
     >https://raw.githubusercontent.com/JunichiAmano/personal-hitster/a3a66e12024107c402690eada69c05a34fd562b5/
-   The last part changes everytime the github has a change.
+   / The last part changes everytime the github has a change.
