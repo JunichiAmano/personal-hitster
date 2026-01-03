@@ -1,1 +1,1 @@
-Play with version 1: https://github.com/JunichiAmano/personal-hitster/c28cd412c162784005117b917d0181a31443d73b/try0
+Play with version 1: https://github.com/JunichiAmano/personal-hitster/d1376a1a497611a396a0be57f639357ffe33a49a/try0
